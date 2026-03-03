@@ -1,4 +1,3 @@
-package OopsBanner;
 
 public class OOPSBannerApp3 {
     public static void main(String[] args){
